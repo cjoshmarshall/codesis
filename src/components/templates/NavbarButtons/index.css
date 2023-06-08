@@ -1,0 +1,17 @@
+.navbarbuttons-container {
+  display: flex;
+  z-index: 1;
+}
+
+.navbarbuttons-button {
+  margin: auto 0.5em;
+}
+
+.navbarbuttons-button_contactus {
+  background-color: transparent;
+}
+.navbarbuttons-button_login {
+  color: rgb(125, 86, 193);
+  background-color: white;
+  border-color: transparent;
+}

@@ -1,0 +1,15 @@
+.navbar-container {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-subcontainer_navbarLinks {
+  width: 70%;
+}
+
+.navbar-subcontainer_navbarButtons {
+  display: flex;
+  justify-content: end;
+  width: 44%;
+  margin: 1em 2em 1em 0;
+}

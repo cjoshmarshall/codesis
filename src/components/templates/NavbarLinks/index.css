@@ -1,0 +1,15 @@
+.navbarlinks-container {
+  display: flex;
+  justify-content: space-between;
+  margin: 1em 0;
+  font-family: "Lexend", sans-serif;
+}
+
+.navbarlinks-subcontainer {
+  display: flex;
+}
+
+.navbarlinks-list_option {
+  margin: 0 10px;
+  cursor: pointer;
+}
